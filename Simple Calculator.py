@@ -29,7 +29,7 @@ def power(a,b):
 
 print("Select Operation.")
 print("1.Addition")
-print("2.Substraction")
+print("2.Subtraction")
 print("3.Multiplication")
 print("4.Division")
 print("5.Power")
